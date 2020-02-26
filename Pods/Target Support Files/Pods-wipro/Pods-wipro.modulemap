@@ -1,0 +1,6 @@
+framework module Pods_wipro {
+  umbrella header "Pods-wipro-umbrella.h"
+
+  export *
+  module * { export * }
+}
